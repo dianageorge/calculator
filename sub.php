@@ -20,12 +20,12 @@
                       arithmetic operations
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="index.html">home</a></li>  
-                      <li><a class="dropdown-item" href="add.html">addition</a></li>
-                      <li><a class="dropdown-item" href="sub.html">subtraction</a></li>
+                        <li><a class="dropdown-item" href="index.php">home</a></li>
+                      <li><a class="dropdown-item" href="add.php">addition</a></li>
+                      <li><a class="dropdown-item" href="sub.php">subtraction</a></li>
                       
-                      <li><a class="dropdown-item" href="mul.html">multiplication</a></li>
-                      <li><a class="dropdown-item" href="div.html">division</a></li>
+                      <li><a class="dropdown-item" href="mul.php">multiplication</a></li>
+                      <li><a class="dropdown-item" href="div.php">division</a></li>
                       
                     </ul>
                   </li>
@@ -34,19 +34,19 @@
         </div>
 
         <div class="row">
-            <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
+            <div class="col col-12 col-sm-6 col-md-6 col-lg-6 ">
                 <table class="table">
                     <tr>
                         <td>enter first number</td>
-                        <td><input id="num1" type="text" class="form-control"></td>
+                        <td><input id="num3" type="text" class="form-control"></td>
                     </tr>
                     <tr>
                         <td>enter second number</td>
-                        <td><input id="num2"  type="text" class="form-control"></td>
+                        <td><input id="num4"  type="text" class="form-control"></td>
                     </tr>
                     <tr>
                         <td></td>
-                        <td><button onclick="subbtnADD()" class="btn btn-danger">add</button></td>
+                        <td><button onclick="subbtnSub()" class="btn btn-danger">sub</button></td>
                     </tr>
                     <tr>
                         <td></td>

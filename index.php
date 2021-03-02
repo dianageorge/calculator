@@ -23,12 +23,12 @@
                   arithmetic operations
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="index.html">home</a></li>
-                  <li><a class="dropdown-item" href="add.html">addition</a></li>
-                  <li><a class="dropdown-item" href="sub.html">subtraction</a></li>
+                  <li><a class="dropdown-item" href="index.php">home</a></li>
+                  <li><a class="dropdown-item" href="add.php">addition</a></li>
+                  <li><a class="dropdown-item" href="sub.php">subtraction</a></li>
                   
-                  <li><a class="dropdown-item" href="mul.html">multiplication</a></li>
-                  <li><a class="dropdown-item" href="div.html">division</a></li>
+                  <li><a class="dropdown-item" href="mul.php">multiplication</a></li>
+                  <li><a class="dropdown-item" href="div.php">division</a></li>
                   
                 </ul>
               </li>
